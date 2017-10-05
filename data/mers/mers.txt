@@ -1,0 +1,472 @@
+accession	length	genome_region	host	country	isolation	collection_date	release_date	name
+KJ156928	390	M	Homo sapiens	Saudi Arabia		2013/06/22	2014/02/06	Middle East respiratory syndrome coronavirus M protein gene, partial cds
+KJ156892	449		Homo sapiens	Saudi Arabia		2013/05/01	2014/02/06	Middle East respiratory syndrome coronavirus M protein-like gene, partial sequence
+KJ156933	1633	orf4a-orf4b-orf5	Homo sapiens	Saudi Arabia		2013/08/19	2014/02/06	Middle East respiratory syndrome coronavirus ORF4a and ORF4b genes, complete cds; and ORF5 gene, partial cds
+KJ156915	2188	orf4a-orf4b-orf5-E	Homo sapiens	Saudi Arabia		2013/06/13	2014/02/06	Middle East respiratory syndrome coronavirus ORF4a, ORF4b, ORF5, and E protein genes, complete cds
+KJ156927	4159	orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2013/07/02	2014/02/06	Middle East respiratory syndrome coronavirus ORF4b, ORF5, E protein, M protein, N protein, and ORF8b genes, complete cds
+KJ156923	1965	orf4b-orf5-E-M	Homo sapiens	Saudi Arabia		2013/05/13	2014/02/06	Middle East respiratory syndrome coronavirus ORF4b, ORF5, and E protein genes, complete cds; and M protein gene, partial cds
+KP966104	4062	S	Camelus dromedarius	Saudi Arabia	oronasopharynx	2014/05	2015/07/02	Middle East respiratory syndrome coronavirus isolate Al-Ahsa KSA_Camel_C23 spike protein gene, complete cds
+KP405226	4062	S	Camelus dromedarius	Saudi Arabia	oronasopharynx	2013/11	2015/07/06	Middle East respiratory syndrome coronavirus isolate Al-Ahsa KSA_Camel_C7 spike protein gene, complete cds
+KP405225	4062	S	Camelus dromedarius	Saudi Arabia	oronasopharynx	2013/12	2015/07/06	Middle East respiratory syndrome coronavirus isolate Al-Ahsa KSA_Camel_C8 spike protein gene, complete cds
+KP405227	4062	S	Camelus dromedarius	Saudi Arabia	lung	2013/12	2015/07/06	Middle East respiratory syndrome coronavirus isolate Al-Ahsa KSA_Camel_C9 spike protein gene, complete cds
+KF600653	1195	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/05/02	2013/09/17	Middle East respiratory syndrome coronavirus isolate Al-Hasa_10a_2013, partial genome
+KF600642	4174	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/05/02	2013/09/17	Middle East respiratory syndrome coronavirus isolate Al-Hasa_10b_2013, partial genome
+KF600624	1752	orf1ab	Homo sapiens	Saudi Arabia		2013/05/02	2013/09/17	Middle East respiratory syndrome coronavirus isolate Al-Hasa_10c_2013, partial genome
+KF600641	361	orf1ab	Homo sapiens	Saudi Arabia		2013/05/02	2013/09/17	Middle East respiratory syndrome coronavirus isolate Al-Hasa_10d_2013, partial genome
+KF600614	2151	orf1ab-S	Homo sapiens	Saudi Arabia		2013/05/02	2013/09/17	Middle East respiratory syndrome coronavirus isolate Al-Hasa_10e_2013, partial genome
+KF600629	2169	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/05/03	2013/09/17	Middle East respiratory syndrome coronavirus isolate Al-Hasa_11a_2013, partial genome
+KF600646	9625	orf1a	Homo sapiens	Saudi Arabia		2013/05/03	2013/09/17	Middle East respiratory syndrome coronavirus isolate Al-Hasa_11b_2013, partial genome
+KF600636	15461	orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2013/05/03	2013/09/17	Middle East respiratory syndrome coronavirus isolate Al-Hasa_11c_2013, partial genome
+KF600627	30076	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2013/05/07	2013/09/17	Middle East respiratory syndrome coronavirus isolate Al-Hasa_12_2013, complete genome
+KF600650	2140	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/05/07	2013/09/17	Middle East respiratory syndrome coronavirus isolate Al-Hasa_13a_2013, partial genome
+KF600616	3787	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/05/07	2013/09/17	Middle East respiratory syndrome coronavirus isolate Al-Hasa_13b_2013, partial genome
+KF600637	1935	orf1ab	Homo sapiens	Saudi Arabia		2013/05/07	2013/09/17	Middle East respiratory syndrome coronavirus isolate Al-Hasa_13c_2013, partial genome
+KF600656	1678	orf1ab	Homo sapiens	Saudi Arabia		2013/05/07	2013/09/17	Middle East respiratory syndrome coronavirus isolate Al-Hasa_13d_2013, partial genome
+KF600640	1752	orf1ab-S	Homo sapiens	Saudi Arabia		2013/05/07	2013/09/17	Middle East respiratory syndrome coronavirus isolate Al-Hasa_13e_2013, partial genome
+KF600615	6673	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/05/08	2013/09/17	Middle East respiratory syndrome coronavirus isolate Al-Hasa_14a_2013, partial genome
+KF600643	15966	orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2013/05/08	2013/09/17	Middle East respiratory syndrome coronavirus isolate Al-Hasa_14b_2013, partial genome
+KF600645	30071	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2013/05/11	2013/09/17	Middle East respiratory syndrome coronavirus isolate Al-Hasa_15_2013, complete genome
+KF600644	30078	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2013/05/12	2013/09/17	Middle East respiratory syndrome coronavirus isolate Al-Hasa_16_2013, complete genome
+KF600647	30115	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2013/05/15	2013/09/17	Middle East respiratory syndrome coronavirus isolate Al-Hasa_17_2013, complete genome
+KF600651	30105	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2013/05/23	2013/09/17	Middle East respiratory syndrome coronavirus isolate Al-Hasa_18_2013, complete genome
+KF600632	30108	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2013/05/23	2013/09/17	Middle East respiratory syndrome coronavirus isolate Al-Hasa_19_2013, complete genome
+KF186567	30117	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2013/05/09	2013/06/10	Middle East respiratory syndrome coronavirus isolate Al-Hasa_1_2013, complete genome
+KF600634	30063	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2013/05/30	2013/09/17	Middle East respiratory syndrome coronavirus isolate Al-Hasa_21_2013, complete genome
+KF600617	2102	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/05/09	2013/09/17	Middle East respiratory syndrome coronavirus isolate Al-Hasa_22a_2013, partial genome
+KF600625	2101	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/05/09	2013/09/17	Middle East respiratory syndrome coronavirus isolate Al-Hasa_22b_2013, partial genome
+KF600633	2880	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/05/09	2013/09/17	Middle East respiratory syndrome coronavirus isolate Al-Hasa_22c_2013, partial genome
+KF600619	881	orf1ab	Homo sapiens	Saudi Arabia		2013/05/09	2013/09/17	Middle East respiratory syndrome coronavirus isolate Al-Hasa_22d_2013, partial genome
+KF600631	4099	orf1ab-S	Homo sapiens	Saudi Arabia		2013/05/09	2013/09/17	Middle East respiratory syndrome coronavirus isolate Al-Hasa_22e_2013, partial genome
+KF600621	2042	M-N-orf8b	Homo sapiens	Saudi Arabia		2013/05/09	2013/09/17	Middle East respiratory syndrome coronavirus isolate Al-Hasa_22f_2013, partial genome
+KJ156860	6064	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/05/13	2014/02/06	Middle East respiratory syndrome coronavirus isolate Al-Hasa_23a_2013 ORF1a gene, partial cds
+KJ156894	7745	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/05/13	2014/02/06	Middle East respiratory syndrome coronavirus isolate Al-Hasa_23b_2013 ORF1ab and ORF1a genes, partial cds
+KJ156929	4274	orf1ab-S	Homo sapiens	Saudi Arabia		2013/05/13	2014/02/06	Middle East respiratory syndrome coronavirus isolate Al-Hasa_23c_2013 ORF1ab and S protein genes, partial cds
+KJ156862	1641	N-orf8b	Homo sapiens	Saudi Arabia		2013/05/13	2014/02/06	Middle East respiratory syndrome coronavirus isolate Al-Hasa_23e_2013 N protein and ORF8b genes, complete cds
+KJ156867	2147	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/05/01	2014/02/06	Middle East respiratory syndrome coronavirus isolate Al-Hasa_24a_2013 ORF1a gene, partial cds
+KJ156919	2199	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/05/01	2014/02/06	Middle East respiratory syndrome coronavirus isolate Al-Hasa_24b_2013 ORF1a gene, partial cds
+KJ156875	2381	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/05/01	2014/02/06	Middle East respiratory syndrome coronavirus isolate Al-Hasa_24c_2013 ORF1ab and ORF1a genes, partial cds
+KJ156885	2087	orf1ab	Homo sapiens	Saudi Arabia		2013/05/01	2014/02/06	Middle East respiratory syndrome coronavirus isolate Al-Hasa_24d_2013 ORF1ab gene, partial cds
+KJ156870	2102	S	Homo sapiens	Saudi Arabia		2013/05/01	2014/02/06	Middle East respiratory syndrome coronavirus isolate Al-Hasa_24e_2013 S protein gene, partial cds
+KJ156902	1577	N-orf8b	Homo sapiens	Saudi Arabia		2013/05/01	2014/02/06	Middle East respiratory syndrome coronavirus isolate Al-Hasa_24g_2013 N protein and ORF8b genes, complete cds
+KJ156866	30054	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2013/05/02	2014/02/06	Middle East respiratory syndrome coronavirus isolate Al-Hasa_25_2013, complete genome
+KJ156882	2116	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/06/18	2014/02/06	Middle East respiratory syndrome coronavirus isolate Al-Hasa_26a_2013 ORF1a gene, partial cds
+KJ156941	18545	orf1ab	Homo sapiens	Saudi Arabia		2013/06/18	2014/02/06	Middle East respiratory syndrome coronavirus isolate Al-Hasa_26b_2013 ORF1ab gene, partial cds
+KJ156872	9202	orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2013/06/18	2014/02/06	Middle East respiratory syndrome coronavirus isolate Al-Hasa_26c_2013 ORF1ab gene, partial cds; and S protein, ORF3, ORF4a, ORF4b, ORF5, E protein, M protein, N protein, and ORF8b genes, complete cds
+KJ156943	18500	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/06/19	2014/02/06	Middle East respiratory syndrome coronavirus isolate Al-Hasa_27a_2013 ORF1ab gene, partial cds; and ORF1a gene, complete cds
+KJ156939	9861	orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2013/06/19	2014/02/06	Middle East respiratory syndrome coronavirus isolate Al-Hasa_27b_2013 ORF1ab gene, partial cds; and S protein, ORF3, ORF4a, ORF4b, ORF5, E protein, M protein, N protein, and ORF8b genes, complete cds
+KJ156887	945	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/06/22	2014/02/06	Middle East respiratory syndrome coronavirus isolate Al-Hasa_28a_2013 ORF1a gene, partial cds
+KJ156940	9023	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/06/22	2014/02/06	Middle East respiratory syndrome coronavirus isolate Al-Hasa_28b_2013 ORF1a gene, partial cds
+KJ156889	1783	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/06/22	2014/02/06	Middle East respiratory syndrome coronavirus isolate Al-Hasa_28c_2013 ORF1ab and ORF1a genes, partial cds
+KJ156893	1080	orf1ab	Homo sapiens	Saudi Arabia		2013/06/22	2014/02/06	Middle East respiratory syndrome coronavirus isolate Al-Hasa_28d_2013 ORF1ab gene, partial cds
+KJ156884	2228	orf1ab	Homo sapiens	Saudi Arabia		2013/06/22	2014/02/06	Middle East respiratory syndrome coronavirus isolate Al-Hasa_28e_2013 ORF1ab gene, partial cds
+KJ156930	4237	orf1ab-S	Homo sapiens	Saudi Arabia		2013/06/22	2014/02/06	Middle East respiratory syndrome coronavirus isolate Al-Hasa_28f_2013 ORF1ab and S protein genes, partial cds
+KJ156909	1714	N-orf8b	Homo sapiens	Saudi Arabia		2013/06/22	2014/02/06	Middle East respiratory syndrome coronavirus isolate Al-Hasa_28h_2013 N protein and ORF8b genes, complete cds
+KF186566	30113	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2013/04/21	2013/06/10	Middle East respiratory syndrome coronavirus isolate Al-Hasa_2_2013, complete genome
+KF186565	30069	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2013/04/22	2013/06/10	Middle East respiratory syndrome coronavirus isolate Al-Hasa_3_2013, complete genome
+KF186564	30081	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2013/05/01	2013/06/10	Middle East respiratory syndrome coronavirus isolate Al-Hasa_4_2013, complete genome
+KF600655	18505	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/05/01	2013/09/17	Middle East respiratory syndrome coronavirus isolate Al-Hasa_7a_2013, partial genome
+KF600623	9142	orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2013/05/01	2013/09/17	Middle East respiratory syndrome coronavirus isolate Al-Hasa_7b_2013, partial genome
+KF600618	1933	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/05/01	2013/09/17	Middle East respiratory syndrome coronavirus isolate Al-Hasa_8a_2013, partial genome
+KF600638	6169	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/05/01	2013/09/17	Middle East respiratory syndrome coronavirus isolate Al-Hasa_8b_2013, partial genome
+KF600626	11638	orf1ab-S-orf3-orf4a-orf4b	Homo sapiens	Saudi Arabia		2013/05/01	2013/09/17	Middle East respiratory syndrome coronavirus isolate Al-Hasa_8c_2013, partial genome
+KF600635	2489	M-N-orf8b	Homo sapiens	Saudi Arabia		2013/05/01	2013/09/17	Middle East respiratory syndrome coronavirus isolate Al-Hasa_8d_2013, partial genome
+KF600648	4327	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/05/01	2013/09/17	Middle East respiratory syndrome coronavirus isolate Al-Hasa_9a_2013, partial genome
+KF600654	2218	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/05/01	2013/09/17	Middle East respiratory syndrome coronavirus isolate Al-Hasa_9b_2013, partial genome
+KF600649	2150	orf1ab-S	Homo sapiens	Saudi Arabia		2013/05/01	2013/09/17	Middle East respiratory syndrome coronavirus isolate Al-Hasa_9c_2013, partial genome
+KF600622	3138	S-orf3-orf4a-orf4b-orf5	Homo sapiens	Saudi Arabia		2013/05/01	2013/09/17	Middle East respiratory syndrome coronavirus isolate Al-Hasa_9d_2013, partial genome
+KF600639	2044	M-N-orf8b	Homo sapiens	Saudi Arabia		2013/05/01	2013/09/17	Middle East respiratory syndrome coronavirus isolate Al-Hasa_9e_2013, partial genome
+KJ156948	6308	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/07/02	2014/02/06	Middle East respiratory syndrome coronavirus isolate Asir_1a_2013 ORF1a gene, partial cds
+KJ156925	2351	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/07/02	2014/02/06	Middle East respiratory syndrome coronavirus isolate Asir_1b_2013 ORF1ab and ORF1a genes, partial cds
+KJ156903	3031	orf1ab-S	Homo sapiens	Saudi Arabia		2013/07/02	2014/02/06	Middle East respiratory syndrome coronavirus isolate Asir_1c_2013 ORF1ab and S protein genes, partial cds
+KJ156883	1638	N-orf8b	Homo sapiens	Saudi Arabia		2013/07/02	2014/02/06	Middle East respiratory syndrome coronavirus isolate Asir_1d_2013 N protein and ORF8b genes, complete cds
+KJ156863	2975	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/08/05	2014/02/06	Middle East respiratory syndrome coronavirus isolate Asir_2a_2013 ORF1a gene, partial cds
+KJ156899	2757	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/08/05	2014/02/06	Middle East respiratory syndrome coronavirus isolate Asir_2b_2013 ORF1a gene, partial cds
+KJ156912	2853	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/08/05	2014/02/06	Middle East respiratory syndrome coronavirus isolate Asir_2c_2013 ORF1a gene, partial cds
+KJ156900	1857	orf1ab	Homo sapiens	Saudi Arabia		2013/08/05	2014/02/06	Middle East respiratory syndrome coronavirus isolate Asir_2d_2013 ORF1ab gene, partial cds
+KJ156898	2251	orf1ab	Homo sapiens	Saudi Arabia		2013/08/05	2014/02/06	Middle East respiratory syndrome coronavirus isolate Asir_2e_2013 ORF1ab gene, partial cds
+KJ156945	4748	orf1ab-S	Homo sapiens	Saudi Arabia		2013/08/05	2014/02/06	Middle East respiratory syndrome coronavirus isolate Asir_2f_2013 ORF1ab and S protein genes, partial cds
+KJ156932	2036	M-N-orf8b	Homo sapiens	Saudi Arabia		2013/08/05	2014/02/06	Middle East respiratory syndrome coronavirus isolate Asir_2g_2013 M protein gene, partial cds; and N protein and ORF8b genes, complete cds
+KF600620	30056	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2012/06/19	2013/09/17	Middle East respiratory syndrome coronavirus isolate Bisha_1_2012, complete genome
+KF600630	30081	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2013/05/13	2013/09/17	Middle East respiratory syndrome coronavirus isolate Buraidah_1_2013, complete genome
+KF600628	30104	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2013/06/04	2013/09/17	Middle East respiratory syndrome coronavirus isolate Hafr-Al-Batin_1_2013, complete genome
+KJ156910	30055	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2013/08/05	2014/02/06	Middle East respiratory syndrome coronavirus isolate Hafr-Al-Batin_2_2013, complete genome
+KJ156931	6369	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/08/25	2014/02/06	Middle East respiratory syndrome coronavirus isolate Hafr-Al-Batin_4a_2013 ORF1a gene, partial cds
+KJ156895	5000	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/08/25	2014/02/06	Middle East respiratory syndrome coronavirus isolate Hafr-Al-Batin_4b_2013 ORF1ab and ORF1a genes, partial cds
+KJ156864	2245	S	Homo sapiens	Saudi Arabia		2013/08/25	2014/02/06	Middle East respiratory syndrome coronavirus isolate Hafr-Al-Batin_4c_2013 S protein gene, partial cds
+KJ156861	2043	M-N-orf8b	Homo sapiens	Saudi Arabia		2013/08/25	2014/02/06	Middle East respiratory syndrome coronavirus isolate Hafr-Al-Batin_4d_2013 M protein gene, partial cds; and N protein and ORF8b genes, complete cds
+KJ156951	9951	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/08/25	2014/02/06	Middle East respiratory syndrome coronavirus isolate Hafr-Al-Batin_5a_2013 ORF1a gene, partial cds
+KJ156924	2640	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/08/25	2014/02/06	Middle East respiratory syndrome coronavirus isolate Hafr-Al-Batin_5b_2013 ORF1ab and ORF1a genes, partial cds
+KJ156954	4162	orf1ab-S	Homo sapiens	Saudi Arabia		2013/08/25	2014/02/06	Middle East respiratory syndrome coronavirus isolate Hafr-Al-Batin_5c_2013 ORF1ab and S protein genes, partial cds
+KJ156913	2043	M-N-orf8b	Homo sapiens	Saudi Arabia		2013/08/25	2014/02/06	Middle East respiratory syndrome coronavirus isolate Hafr-Al-Batin_5d_2013 M protein gene, partial cds; and N protein and ORF8b genes, complete cds
+KJ156874	30055	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2013/08/28	2014/02/06	Middle East respiratory syndrome coronavirus isolate Hafr-Al-Batin_6_2013, complete genome
+KT357805	4062	S	Homo sapiens	Saudi Arabia		2014	2016/04/12	Middle East respiratory syndrome coronavirus isolate HafrAlBatin_696/KSA/2014 spike protein gene, complete cds
+KT806023	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/05/17	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Aflaj-KSA-10802/2015 spike protein gene, complete cds
+KX154694	30096	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2016/02/29	2017/04/30	Middle East respiratory syndrome coronavirus isolate Hu/Artawiyah-KSA-13328/2016, complete genome
+KT805992	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/05/01	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Aseer-KSA-Rs924/2015 spike protein gene, complete cds
+KT805988	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/05/10	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Buqayq-KSA-11012/2015 spike protein gene, complete cds
+KT805981	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/02/10	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Buraydah-KSA-2937/2015 spike protein gene, complete cds
+KT805970	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/02/12	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Buraydah-KSA-3049/2015 spike protein gene, complete cds
+KT806002	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/02/13	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Buraydah-KSA-3317/2015 spike protein gene, complete cds
+KT806001	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/02/13	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Buraydah-KSA-3319/2015 spike protein gene, complete cds
+KT806004	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/02/14	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Buraydah-KSA-3334/2015 spike protein gene, complete cds
+KT806006	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/02/28	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Buraydah-KSA-3818/2015 spike protein gene, complete cds
+KT805984	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/02/08	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Dhahran-KSA-6740/2015 spike protein gene, complete cds
+KT806016	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/04/16	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Duba-KSA-313/2015 spike protein gene, complete cds
+KT806033	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/04/25	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Hufuf-KSA-10357/2015 spike protein gene, complete cds
+KT806046	30096	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/05/10	2016/01/13	Middle East respiratory syndrome coronavirus isolate Hu/Hufuf-KSA-11002/2015, complete genome
+KT805990	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/05/10	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Hufuf-KSA-11003/2015 spike protein gene, complete cds
+KT806041	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/05/12	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Hufuf-KSA-11078/2015 spike protein gene, complete cds
+KT805987	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/05/12	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Hufuf-KSA-11080/2015 spike protein gene, complete cds
+KT805989	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/05/13	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Hufuf-KSA-11150/2015 spike protein gene, complete cds
+KT806024	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/05/20	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Hufuf-KSA-11401/2015 spike protein gene, complete cds
+KT806025	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/05/22	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Hufuf-KSA-11442/2015 spike protein gene, complete cds
+KT806026	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/05/23	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Hufuf-KSA-11476/2015 spike protein gene, complete cds
+KT806032	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/05/27	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Hufuf-KSA-11765/2015 spike protein gene, complete cds
+KT806031	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/05/27	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Hufuf-KSA-11767/2015 spike protein gene, complete cds
+KT806030	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/05/28	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Hufuf-KSA-11853/2015 spike protein gene, complete cds
+KT806029	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/05/28	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Hufuf-KSA-11869/2015 spike protein gene, complete cds
+KT806034	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/05/29	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Hufuf-KSA-11876/2015 spike protein gene, complete cds
+KT806027	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/05/29	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Hufuf-KSA-11882/2015 spike protein gene, complete cds
+KT806028	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/05/29	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Hufuf-KSA-11905/2015 spike protein gene, complete cds
+KT806035	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/06/01	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Hufuf-KSA-12055/2015 spike protein gene, complete cds
+KT806036	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/06/02	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Hufuf-KSA-12124/2015 spike protein gene, complete cds
+KT806037	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/06/03	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Hufuf-KSA-12177/2015 spike protein gene, complete cds
+KT806038	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/06/04	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Hufuf-KSA-12225/2015 spike protein gene, complete cds
+KT806039	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/06/07	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Hufuf-KSA-12354/2015 spike protein gene, complete cds
+KT806040	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/06/13	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Hufuf-KSA-12597/2015 spike protein gene, complete cds
+KT805982	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/01/30	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Hufuf-KSA-6648/2015 spike protein gene, complete cds
+KT805983	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/02/01	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Hufuf-KSA-6674/2015 spike protein gene, complete cds
+KT805985	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/03/07	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Hufuf-KSA-8271/2015 spike protein gene, complete cds
+KT805986	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/03/12	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Hufuf-KSA-8527/2015 spike protein gene, complete cds
+KT806047	30087	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/03/27	2016/01/13	Middle East respiratory syndrome coronavirus isolate Hu/Hufuf-KSA-9158/2015, complete genome
+KX154690	30096	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2016/01	2017/04/30	Middle East respiratory syndrome coronavirus isolate Hu/Jeddah-KSA-161RS1146/2016, complete genome
+KU851859	30076	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/07/12	2016/06/27	Middle East respiratory syndrome coronavirus isolate Hu/Jeddah-KSA-3RS2702/2015, complete genome
+KT806044	30096	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/02/09	2016/01/13	Middle East respiratory syndrome coronavirus isolate Hu/Jeddah-KSA-C20843/2015, complete genome
+KT806055	30096	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/02/10	2016/01/13	Middle East respiratory syndrome coronavirus isolate Hu/Jeddah-KSA-C20860/2015, complete genome
+KT805972	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/02/14	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Jeddah-KSA-C20934/2015 spike protein gene, complete cds
+KT806045	30096	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/02/22	2016/01/13	Middle East respiratory syndrome coronavirus isolate Hu/Jeddah-KSA-C21271/2015, complete genome
+KT805993	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/03/05	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Jeddah-KSA-C21760/2015 spike protein gene, complete cds
+KT805994	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/03/09	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Jeddah-KSA-C21864/2015 spike protein gene, complete cds
+KT805995	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/03/20	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Jeddah-KSA-C22351/2015 spike protein gene, complete cds
+KT805997	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/03/29	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Jeddah-KSA-C22744/2015 spike protein gene, complete cds
+KT805998	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/03/29	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Jeddah-KSA-C22748/2015 spike protein gene, complete cds
+KT805999	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/04/01	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Jeddah-KSA-RS15/2015 spike protein gene, complete cds
+KT806053	30096	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2015/02/02	2016/01/13	Middle East respiratory syndrome coronavirus isolate Hu/Kharj-KSA-2598/2015, complete genome
+KT806052	30096	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/02/02	2016/01/13	Middle East respiratory syndrome coronavirus isolate Hu/Kharj-KSA-2599/2015, complete genome
+KT806048	30096	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/02/07	2016/01/13	Middle East respiratory syndrome coronavirus isolate Hu/Khobar-KSA-6736/2015, complete genome
+KT806013	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/04/04	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Makkah-KSA-728/2015 spike protein gene, complete cds
+KT806015	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/04/13	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Makkah-KSA-907/2015 spike protein gene, complete cds
+KT806054	29695	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/02/13	2016/01/13	Middle East respiratory syndrome coronavirus isolate Hu/Najran-KSA-C20915/2015, complete genome
+KT805996	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/03/21	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Najran-KSA-C22374/2015 spike protein gene, complete cds
+KT805991	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/05/08	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Najran-KSA-Rs1207/2015 spike protein gene, complete cds
+KT806022	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/05/12	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Qunfidhah-KSA-Rs1338/2015 spike protein gene, complete cds
+KT805966	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/02/20	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Quwaiyah-KSA-3405/2015 spike protein gene, complete cds
+KT806003	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/02/13	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Rass-KSA-3318/2015 spike protein gene, complete cds
+KT806018	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/05/09	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-10131/2015 spike protein gene, complete cds
+KT806019	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/05/09	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-10150/2015 spike protein gene, complete cds
+KT806020	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/05/10	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-10182/2015 spike protein gene, complete cds
+KX154689	30096	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2016/01	2017/04/30	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-10208/2016, complete genome
+KX154684	30096	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2016/02	2017/04/30	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-11739/2016, complete genome
+KX154685	30096	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2016/02	2017/04/30	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-11740/2016, complete genome
+KX154686	30096	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2016/02	2017/04/30	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-11898/2016, complete genome
+KX154687	30096	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2016/02	2017/04/30	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-11958/2016, complete genome
+KX154688	30096	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2016/02	2017/04/30	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-12160/2016, complete genome
+KX154691	30096	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2016/02/25	2017/04/30	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-12832/2016, complete genome
+KX154692	30096	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2016/02/27	2017/04/30	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-12969/2016, complete genome
+KX154693	30096	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2016/02/29	2017/04/30	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-13127/2016, complete genome
+KU851863	30096	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/08/27	2016/06/27	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-16077/2015, complete genome
+KU851864	30096	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/08/24	2016/06/27	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-16098/2015, complete genome
+KU851862	30096	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/08/24	2016/06/27	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-16117/2015, complete genome
+KU851861	30096	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/08/24	2016/06/27	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-16120/2015, complete genome
+KU851860	30096	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/08/24	2016/06/27	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-16121/2015, complete genome
+KT805961	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/01/14	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-2264/2015 spike protein gene, complete cds
+KT805962	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/01/18	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-2276/2015 spike protein gene, complete cds
+KT805963	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/01/20	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-2317/2015 spike protein gene, complete cds
+KT805964	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/02/02	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-2600/2015 spike protein gene, complete cds
+KT805965	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/02/03	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-2622A/2015 spike protein gene, complete cds
+KT806051	30096	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/02/05	2016/01/13	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-2716/2015, complete genome
+KT806050	27121	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/02/12	2016/01/13	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-3065/2015, partial genome
+KT805969	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/02/14	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-3098/2015 spike protein gene, complete cds
+KT805971	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/02/14	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-3123/2015 spike protein gene, complete cds
+KT805968	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/02/15	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-3160/2015 spike protein gene, complete cds
+KT806049	30096	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/02/15	2016/01/13	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-3181/2015, complete genome
+KT805967	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/02/18	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-3331/2015 spike protein gene, complete cds
+KT805979	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/02/21	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-3486/2015 spike protein gene, complete cds
+KT805980	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/02/21	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-3487/2015 spike protein gene, complete cds
+KT805978	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/02/23	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-3550/2015 spike protein gene, complete cds
+KT805977	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/02/23	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-3562/2015 spike protein gene, complete cds
+KT806005	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/02/25	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-3782/2015 spike protein gene, complete cds
+KT805976	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/02/26	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-3929/2015 spike protein gene, complete cds
+KT805975	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/02/28	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-4067/2015 spike protein gene, complete cds
+KT805974	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/02/28	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-4071/2015 spike protein gene, complete cds
+KT806007	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/03/04	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-4606/2015 spike protein gene, complete cds
+KT806009	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/03/08	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-5390/2015 spike protein gene, complete cds
+KT806021	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/03/21	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-6966/2015 spike protein gene, complete cds
+KT806010	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/03/24	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-7179/2015 spike protein gene, complete cds
+KT806011	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/03/25	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-7244/2015 spike protein gene, complete cds
+KT806012	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/03/30	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-7591/2015 spike protein gene, complete cds
+KT806014	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/04/04	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-7867/2015 spike protein gene, complete cds
+KT805973	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/02/06	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh-KSA-C20807/2015 spike protein gene, complete cds
+KT026455	30114	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N	Homo sapiens	Saudi Arabia	lung	2015/02/10	2015/06/08	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh_KSA_2959_2015, complete genome
+KT026456	30120	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N	Homo sapiens	Saudi Arabia	oronasopharynx	2015/03/01	2015/06/08	Middle East respiratory syndrome coronavirus isolate Hu/Riyadh_KSA_4050_2015, complete genome
+KT806008	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/03/04	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Shaqra-KSA-4699/2015 spike protein gene, complete cds
+KR912193	4062	S	Homo sapiens	Saudi Arabia	blood	2014/10/27	2015/10/21	Middle East respiratory syndrome coronavirus isolate Hu/Taif,KSA-1416/2014 spike protein gene, complete cds
+KR912194	4062	S	Homo sapiens	Saudi Arabia	blood	2014/10/27	2015/10/21	Middle East respiratory syndrome coronavirus isolate Hu/Taif,KSA-1445/2014 spike protein gene, complete cds
+KR912189	4062	S	Homo sapiens	Saudi Arabia	blood	2014/11/11	2015/10/21	Middle East respiratory syndrome coronavirus isolate Hu/Taif,KSA-1486/2014 spike protein gene, complete cds
+KR912195	4062	S	Homo sapiens	Saudi Arabia	blood	2014/11/12	2015/10/21	Middle East respiratory syndrome coronavirus isolate Hu/Taif,KSA-1488/2014 spike protein gene, complete cds
+KR912196	4062	S	Homo sapiens	Saudi Arabia	blood	2014/11/22	2015/10/21	Middle East respiratory syndrome coronavirus isolate Hu/Taif,KSA-1521/2014 spike protein gene, complete cds
+KR912192	4062	S	Homo sapiens	Saudi Arabia	blood	2014/10/24	2015/10/21	Middle East respiratory syndrome coronavirus isolate Hu/Taif,KSA-2083/2014 spike protein gene, complete cds
+KR912190	4062	S	Homo sapiens	Saudi Arabia	blood	2014/10/27	2015/10/21	Middle East respiratory syndrome coronavirus isolate Hu/Taif,KSA-2164/2014 spike protein gene, complete cds
+KR912191	4062	S	Homo sapiens	Saudi Arabia	blood	2014/09/10	2015/10/21	Middle East respiratory syndrome coronavirus isolate Hu/Taif,KSA-5920/2014 spike protein gene, complete cds
+KR912187	4062	S	Homo sapiens	Saudi Arabia	blood	2014/11/28	2015/10/21	Middle East respiratory syndrome coronavirus isolate Hu/Taif,KSA-6047/2014 spike protein gene, complete cds
+KR912188	4062	S	Homo sapiens	Saudi Arabia	blood	2014/11/04	2015/10/21	Middle East respiratory syndrome coronavirus isolate Hu/Taif,KSA-7032/2014 spike protein gene, complete cds
+KT806017	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/05/09	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Taif-KSA-15167/2015 spike protein gene, complete cds
+KU710264	30096	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia	blood	2014/11/04	2016/08/12	Middle East respiratory syndrome coronavirus isolate Hu/Taif/KSA-7032/2014, complete genome
+KU710265	29566	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia	blood	2014/11/04	2016/08/12	Middle East respiratory syndrome coronavirus isolate Hu/Taif/KSA-7032/2014/S530del, complete genome
+KT806000	4062	S	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/02/10	2016/01/07	Middle East respiratory syndrome coronavirus isolate Hu/Unayzah-KSA-3249/2015 spike protein gene, complete cds
+KJ556336	29890	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2013/11/06	2014/03/24	Middle East respiratory syndrome coronavirus isolate Jeddah_1_2013, complete genome
+KM027260	29874	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2014/04/21	2014/11/12	Middle East respiratory syndrome coronavirus isolate Jeddah_C10306/KSA/2014-04-20, complete genome
+KM027263	4062	S	Homo sapiens	Saudi Arabia		2014	2014/11/12	Middle East respiratory syndrome coronavirus isolate Jeddah_C7058/KSA/2014 spike protein (S) gene, complete cds
+KM027255	29919	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2014	2014/11/12	Middle East respiratory syndrome coronavirus isolate Jeddah_C7149/KSA/2014-04-05, complete genome
+KM027264	4062	S	Homo sapiens	Saudi Arabia		2014	2014/11/12	Middle East respiratory syndrome coronavirus isolate Jeddah_C7209/KSA/2014 spike protein (S) gene, complete cds
+KM027265	4062	S	Homo sapiens	Saudi Arabia		2014	2014/11/12	Middle East respiratory syndrome coronavirus isolate Jeddah_C7311/KSA/2014 spike protein (S) gene, complete cds
+KM027266	4062	S	Homo sapiens	Saudi Arabia		2014	2014/11/12	Middle East respiratory syndrome coronavirus isolate Jeddah_C7312/KSA/2014 spike protein (S) gene, complete cds
+KM027267	4062	S	Homo sapiens	Saudi Arabia		2014	2014/11/12	Middle East respiratory syndrome coronavirus isolate Jeddah_C7319/KSA/2014 spike protein (S) gene, complete cds
+KM027268	4062	S	Homo sapiens	Saudi Arabia		2014	2014/11/12	Middle East respiratory syndrome coronavirus isolate Jeddah_C7554/KSA/2014 spike protein (S) gene, complete cds
+KM027256	29918	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2014	2014/11/12	Middle East respiratory syndrome coronavirus isolate Jeddah_C7569/KSA/2014-04-03, complete genome
+KM027269	4062	S	Homo sapiens	Saudi Arabia		2014	2014/11/12	Middle East respiratory syndrome coronavirus isolate Jeddah_C7720/KSA/2014 spike protein (S) gene, complete cds
+KM027257	29774	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2014/04/07	2014/11/12	Middle East respiratory syndrome coronavirus isolate Jeddah_C7770/KSA/2014-04-07, complete genome
+KM027270	4062	S	Homo sapiens	Saudi Arabia		2014	2014/11/12	Middle East respiratory syndrome coronavirus isolate Jeddah_C7773/KSA/2014 spike protein (S) gene, complete cds
+KM027271	4062	S	Homo sapiens	Saudi Arabia		2014	2014/11/12	Middle East respiratory syndrome coronavirus isolate Jeddah_C8237/KSA/2014 spike protein (S) gene, complete cds
+KM027272	4062	S	Homo sapiens	Saudi Arabia		2014	2014/11/12	Middle East respiratory syndrome coronavirus isolate Jeddah_C8493/KSA/2014 spike protein (S) gene, complete cds
+KM027258	29809	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2014/04/12	2014/11/12	Middle East respiratory syndrome coronavirus isolate Jeddah_C8826/KSA/2014-04-12, complete genome
+KM027273	4062	S	Homo sapiens	Saudi Arabia		2014	2014/11/12	Middle East respiratory syndrome coronavirus isolate Jeddah_C8965/KSA/2014 spike protein (S) gene, complete cds
+KM027274	4062	S	Homo sapiens	Saudi Arabia		2014	2014/11/12	Middle East respiratory syndrome coronavirus isolate Jeddah_C8978/KSA/2014 spike protein (S) gene, complete cds
+KM027259	29918	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2014/04/14	2014/11/12	Middle East respiratory syndrome coronavirus isolate Jeddah_C9055/KSA/2014-04-14, complete genome
+KM027275	4062	S	Homo sapiens	Saudi Arabia		2014	2014/11/12	Middle East respiratory syndrome coronavirus isolate Jeddah_C9282/KSA/2014 spike protein (S) gene, complete cds
+KM027276	4062	S	Homo sapiens	Saudi Arabia		2014	2014/11/12	Middle East respiratory syndrome coronavirus isolate Jeddah_C9313/KSA/2014 spike protein (S) gene, complete cds
+KJ607976	2276	orf1a-orf1ab-orf5-E-N	Camelus dromedarius	Saudi Arabia		2013	2014/06/03	Middle East respiratory syndrome coronavirus isolate Jeddah_Camel1, partial sequence
+KJ556337	689	E-M	Camelus dromedarius	Saudi Arabia		2013/11/09	2014/03/24	Middle East respiratory syndrome coronavirus isolate Jeddah_Camel1_2013 E protein gene, complete cds; and M protein gene, partial cds
+KJ556340	958	orf1ab-S	Camelus dromedarius	Saudi Arabia		2013/11/09	2014/03/24	Middle East respiratory syndrome coronavirus isolate Jeddah_Camel1_2013 ORF1ab and S protein genes, partial cds
+KJ556338	708	orf3	Camelus dromedarius	Saudi Arabia		2013/11/09	2014/03/24	Middle East respiratory syndrome coronavirus isolate Jeddah_Camel1_2013 ORF3 gene, complete cds
+KJ556339	491	S	Camelus dromedarius	Saudi Arabia		2013/11/09	2014/03/24	Middle East respiratory syndrome coronavirus isolate Jeddah_Camel1_2013 S protein gene, partial cds
+KT121580	29799	orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N	Homo sapiens	Saudi Arabia		2014/04/28	2015/11/17	Middle East respiratory syndrome coronavirus isolate KFMC-1, complete genome
+KT121578	29785	orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N	Homo sapiens	Saudi Arabia		2014/05/01	2015/11/17	Middle East respiratory syndrome coronavirus isolate KFMC-10, complete genome
+KT202801	5220	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2014/04/28	2015/11/17	Middle East respiratory syndrome coronavirus isolate KFMC-11 ORF1a gene, partial cds
+KT121577	29896	orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N	Homo sapiens	Saudi Arabia		2014/05/11	2015/11/17	Middle East respiratory syndrome coronavirus isolate KFMC-2, complete genome
+KT121573	29896	orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N	Homo sapiens	Saudi Arabia		2014/05/09	2015/11/17	Middle East respiratory syndrome coronavirus isolate KFMC-3, complete genome
+KT121575	29896	orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N	Homo sapiens	Saudi Arabia		2014/05/12	2015/11/17	Middle East respiratory syndrome coronavirus isolate KFMC-4, complete genome
+KT121572	29896	orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N	Homo sapiens	Saudi Arabia		2014/05/12	2015/11/17	Middle East respiratory syndrome coronavirus isolate KFMC-5, complete genome
+KT121576	29896	orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N	Homo sapiens	Saudi Arabia		2014/05/18	2015/11/17	Middle East respiratory syndrome coronavirus isolate KFMC-6, complete genome
+KT121581	29751	orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N	Homo sapiens	Saudi Arabia		2014/05/03	2015/11/17	Middle East respiratory syndrome coronavirus isolate KFMC-7, complete genome
+KT121579	29751	orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N	Homo sapiens	Saudi Arabia		2014/04/30	2015/11/17	Middle East respiratory syndrome coronavirus isolate KFMC-8, complete genome
+KT121574	29896	orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N	Homo sapiens	Saudi Arabia		2014/05/07	2015/11/17	Middle East respiratory syndrome coronavirus isolate KFMC-9, complete genome
+KJ650297	30105	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N	Camelus dromedarius	Saudi Arabia		2013/11/30	2014/04/22	Middle East respiratory syndrome coronavirus isolate KFU-HKU 1, complete genome
+KJ650295	30100	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N	Camelus dromedarius	Saudi Arabia		2013/12/30	2014/04/22	Middle East respiratory syndrome coronavirus isolate KFU-HKU 13, complete genome
+KJ650296	30099	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N	Camelus dromedarius	Saudi Arabia		2013/12/30	2014/04/22	Middle East respiratory syndrome coronavirus isolate KFU-HKU 19Dam, complete genome
+KX960122	269	orf1a-orf1ab	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/08/01	2016/11/05	Middle East respiratory syndrome coronavirus isolate KSA Riyadh-12 ORF1AB (orf1ab) gene, partial cds
+KX960123	269	orf1a-orf1ab	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/08/01	2016/11/05	Middle East respiratory syndrome coronavirus isolate KSA Riyadh-21 ORF1AB (orf1ab) gene, partial cds
+KX960124	269	orf1a-orf1ab	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/08/01	2016/11/05	Middle East respiratory syndrome coronavirus isolate KSA Riyadh-24 ORF1AB (orf1ab) gene, partial cds
+KX960119	269	orf1a-orf1ab	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/08/01	2016/11/05	Middle East respiratory syndrome coronavirus isolate KSA Riyadh-4 ORF1AB (orf1ab) gene, partial cds
+KX960120	269	orf1a-orf1ab	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/08/01	2016/11/05	Middle East respiratory syndrome coronavirus isolate KSA Riyadh-6 ORF1AB (orf1ab) gene, partial cds
+KX960121	269	orf1a-orf1ab	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/08/01	2016/11/05	Middle East respiratory syndrome coronavirus isolate KSA Riyadh-9 ORF1AB (orf1ab) gene, partial cds
+KJ713298	30083	orf1a-orf1ab-S-orf3-orf4b-orf5-E-M-N-orf8b	Camelus dromedarius	Saudi Arabia	oronasopharynx	2013/11	2014/05/04	Middle East respiratory syndrome coronavirus isolate KSA-CAMEL-363, complete genome
+KJ713299	30116	orf1a-orf1ab-S-orf3-orf4b-orf5-E-M-N-orf8b	Camelus dromedarius	Saudi Arabia	oronasopharynx	2013/11	2014/05/04	Middle East respiratory syndrome coronavirus isolate KSA-CAMEL-376, complete genome
+KJ713296	30113	orf1a-orf1ab-S-orf3-orf4b-orf5-E-M-N-orf8b	Camelus dromedarius	Saudi Arabia	oronasopharynx	2013/11	2014/05/04	Middle East respiratory syndrome coronavirus isolate KSA-CAMEL-378, complete genome
+KJ713297	30114	orf1a-orf1ab-S-orf3-orf4b-orf5-E-M-N-orf8b	Camelus dromedarius	Saudi Arabia	oronasopharynx	2013/11	2014/05/04	Middle East respiratory syndrome coronavirus isolate KSA-CAMEL-503, complete genome
+KJ713295	30113	orf1a-orf1ab-S-orf3-orf4b-orf5-E-M-N-orf8b	Camelus dromedarius	Saudi Arabia	oronasopharynx	2013/11	2014/05/04	Middle East respiratory syndrome coronavirus isolate KSA-CAMEL-505, complete genome
+KT877351	30010	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus dromedarius	Saudi Arabia	oronasopharynx	2014/09	2016/09/30	Middle East respiratory syndrome coronavirus isolate KSA_1724, complete genome
+KT877350	30121	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus dromedarius	Saudi Arabia	oronasopharynx	2014/09	2016/09/30	Middle East respiratory syndrome coronavirus isolate KSA_1725, complete genome
+KF917527	29851	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2013/11/08	2014/05/01	Middle East respiratory syndrome coronavirus isolate MERS-CoV-Jeddah-Camel-1, complete genome
+KF958702	29851	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2013/11/05	2014/05/01	Middle East respiratory syndrome coronavirus isolate MERS-CoV-Jeddah-human-1, complete genome
+KJ156935	6071	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/09/01	2014/02/06	Middle East respiratory syndrome coronavirus isolate Madinah_1a_2013 ORF1a gene, partial cds
+KJ156904	871	S	Homo sapiens	Saudi Arabia		2013/09/01	2014/02/06	Middle East respiratory syndrome coronavirus isolate Madinah_1b_2013 S protein gene, partial cds
+KJ156917	2033	M-N	Homo sapiens	Saudi Arabia		2013/09/01	2014/02/06	Middle East respiratory syndrome coronavirus isolate Madinah_1c_2013 M protein gene, partial cds; N protein gene, complete cds; and ORF8b-like gene, complete sequence
+KJ156950	2077	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/09/11	2014/02/06	Middle East respiratory syndrome coronavirus isolate Madinah_3a_2013 ORF1a gene, partial cds
+KJ156916	27973	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N	Homo sapiens	Saudi Arabia		2013/09/11	2014/02/06	Middle East respiratory syndrome coronavirus isolate Madinah_3b_2013, partial genome
+KM027261	29809	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2014/04/15	2014/11/12	Middle East respiratory syndrome coronavirus isolate Makkah_C9355/KSA/Makkah/2014-04-15, complete genome
+KJ156891	19165	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/08/05	2014/02/06	Middle East respiratory syndrome coronavirus isolate Riyadh_10a_2013 ORF1ab gene, partial cds; and ORF1a gene, complete cds
+KJ156936	5893	orf1ab-S	Homo sapiens	Saudi Arabia		2013/08/05	2014/02/06	Middle East respiratory syndrome coronavirus isolate Riyadh_10b_2013 ORF1ab gene, partial cds; and S protein gene, complete cds
+KJ156907	3374	orf4a-orf4b-orf5-E-M-N	Homo sapiens	Saudi Arabia		2013/08/05	2014/02/06	Middle East respiratory syndrome coronavirus isolate Riyadh_10c_2013 ORF4a, ORF4b, ORF5, E protein, and M protein genes, complete cds; N protein gene, partial cds; and ORF8b-like gene, complete sequence
+KT357796	1799	S	Homo sapiens	Saudi Arabia		2014	2016/04/12	Middle East respiratory syndrome coronavirus isolate Riyadh_1104/KSA/2014 spike protein gene, partial cds
+KT357802	4062	S	Homo sapiens	Saudi Arabia		2014	2016/04/12	Middle East respiratory syndrome coronavirus isolate Riyadh_111/KSA/2014 spike protein gene, complete cds
+KT357799	1756	S	Homo sapiens	Saudi Arabia		2014	2016/04/12	Middle East respiratory syndrome coronavirus isolate Riyadh_1116/KSA/2014 spike protein gene, partial cds
+KT357804	4062	S	Homo sapiens	Saudi Arabia		2014	2016/04/12	Middle East respiratory syndrome coronavirus isolate Riyadh_1147/KSA/2014 spike protein gene, complete cds
+KT357806	4062	S	Homo sapiens	Saudi Arabia		2014	2016/04/12	Middle East respiratory syndrome coronavirus isolate Riyadh_1158/KSA/2014 spike protein gene, complete cds
+KT357807	4062	S	Homo sapiens	Saudi Arabia		2014	2016/04/12	Middle East respiratory syndrome coronavirus isolate Riyadh_1162/KSA/2014 spike protein gene, complete cds
+KT357808	4062	S	Homo sapiens	Saudi Arabia		2014	2016/04/12	Middle East respiratory syndrome coronavirus isolate Riyadh_1164/KSA/2014 spike protein gene, complete cds
+KT357798	287	S	Homo sapiens	Saudi Arabia		2014	2016/04/12	Middle East respiratory syndrome coronavirus isolate Riyadh_1168/KSA/2014 spike protein gene, partial cds
+KT357809	4062	S	Homo sapiens	Saudi Arabia		2014	2016/04/12	Middle East respiratory syndrome coronavirus isolate Riyadh_1172/KSA/2014 spike protein gene, complete cds
+KT357810	4062	S	Homo sapiens	Saudi Arabia		2014	2016/04/12	Middle East respiratory syndrome coronavirus isolate Riyadh_1175/KSA/2014 spike protein gene, complete cds
+KT357800	290	S	Homo sapiens	Saudi Arabia		2014	2016/04/12	Middle East respiratory syndrome coronavirus isolate Riyadh_1182/KSA/2014 spike protein gene, partial cds
+KJ156946	19140	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/08/06	2014/02/06	Middle East respiratory syndrome coronavirus isolate Riyadh_11a_2013 ORF1ab gene, partial cds; and ORF1a gene, complete cds
+KJ156911	9161	orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N	Homo sapiens	Saudi Arabia		2013/08/06	2014/02/06	Middle East respiratory syndrome coronavirus isolate Riyadh_11b_2013 ORF1ab gene, partial cds; S protein, ORF3, ORF4a, ORF4b, ORF5, E protein, and M protein genes, complete cds; N protein gene, partial cds; and ORF8b-like gene, complete sequence
+KT357801	3269	S	Homo sapiens	Saudi Arabia		2014	2016/04/12	Middle East respiratory syndrome coronavirus isolate Riyadh_1251/KSA/2014 spike protein gene, partial cds
+KJ156926	18570	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/08/08	2014/02/06	Middle East respiratory syndrome coronavirus isolate Riyadh_12a_2013 ORF1ab gene, partial cds; and ORF1a gene, complete cds
+KJ156901	9863	orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2013/08/08	2014/02/06	Middle East respiratory syndrome coronavirus isolate Riyadh_12b_2013 ORF1ab gene, partial cds; and S protein, ORF3, ORF4a, ORF4b, ORF5, E protein, M protein, N protein, and ORF8b genes, complete cds
+KT357811	4062	S	Homo sapiens	Saudi Arabia		2014	2016/04/12	Middle East respiratory syndrome coronavirus isolate Riyadh_1337/KSA/2014 spike protein gene, complete cds
+KT357812	4062	S	Homo sapiens	Saudi Arabia		2014	2016/04/12	Middle East respiratory syndrome coronavirus isolate Riyadh_1340/KSA/2014 spike protein gene, complete cds
+KJ156888	18853	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/08/13	2014/02/06	Middle East respiratory syndrome coronavirus isolate Riyadh_13a_2013 ORF1ab gene, partial cds; and ORF1a gene, complete cds
+KJ156873	10327	orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2013/08/13	2014/02/06	Middle East respiratory syndrome coronavirus isolate Riyadh_13b_2013 ORF1ab gene, partial cds; S protein, ORF3, ORF4a, ORF4b, ORF5, E protein, and M protein genes, complete cds; N protein gene, partial cds; and ORF8b gene, complete cds
+KJ156934	30055	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2013/08/15	2014/02/06	Middle East respiratory syndrome coronavirus isolate Riyadh_14_2013, complete genome
+KJ156914	5990	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/08/19	2014/02/06	Middle East respiratory syndrome coronavirus isolate Riyadh_15a_2013 ORF1a gene, partial cds
+KJ156877	2110	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/08/19	2014/02/06	Middle East respiratory syndrome coronavirus isolate Riyadh_15b_2013 ORF1a gene, partial cds
+KJ156878	1961	orf1ab-S	Homo sapiens	Saudi Arabia		2013/08/19	2014/02/06	Middle East respiratory syndrome coronavirus isolate Riyadh_15c_2013 ORF1ab and S protein genes, partial cds
+KJ156859	1326	S	Homo sapiens	Saudi Arabia		2013/08/19	2014/02/06	Middle East respiratory syndrome coronavirus isolate Riyadh_15d_2013 S protein gene, partial cds
+KJ156953	1671	N-orf8b	Homo sapiens	Saudi Arabia		2013/08/19	2014/02/06	Middle East respiratory syndrome coronavirus isolate Riyadh_15f_2013 N protein and ORF8b genes, complete cds
+KJ156918	18515	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/08/26	2014/02/06	Middle East respiratory syndrome coronavirus isolate Riyadh_17a_2013 ORF1ab gene, partial cds; and ORF1a gene, complete cds
+KJ156920	7144	orf1ab-S	Homo sapiens	Saudi Arabia		2013/08/26	2014/02/06	Middle East respiratory syndrome coronavirus isolate Riyadh_17b_2013 ORF1ab gene, partial cds; and S protein gene, complete cds
+KJ156865	4303	orf4a-orf4b-orf5-E-M-N	Homo sapiens	Saudi Arabia		2013/08/26	2014/02/06	Middle East respiratory syndrome coronavirus isolate Riyadh_17c_2013 ORF4a, ORF4b, ORF5, E protein, M protein, and N protein genes, complete cds; and ORF8b-like gene, complete sequence
+KF600612	30063	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2012/10/23	2013/09/17	Middle East respiratory syndrome coronavirus isolate Riyadh_1_2012, complete genome
+KM027277	4062	S	Homo sapiens	Saudi Arabia		2014	2014/11/12	Middle East respiratory syndrome coronavirus isolate Riyadh_2014KSA_042/KSA/2014 spike protein (S) gene, complete cds
+KM027278	4062	S	Homo sapiens	Saudi Arabia		2014	2014/11/12	Middle East respiratory syndrome coronavirus isolate Riyadh_2014KSA_057/KSA/2014 spike protein (S) gene, complete cds
+KM027279	4062	S	Homo sapiens	Saudi Arabia		2014	2014/11/12	Middle East respiratory syndrome coronavirus isolate Riyadh_2014KSA_059/KSA/2014 spike protein (S) gene, complete cds
+KM027280	4062	S	Homo sapiens	Saudi Arabia		2014	2014/11/12	Middle East respiratory syndrome coronavirus isolate Riyadh_2014KSA_150/KSA/2014 spike protein (S) gene, complete cds
+KM027281	4062	S	Homo sapiens	Saudi Arabia		2014	2014/11/12	Middle East respiratory syndrome coronavirus isolate Riyadh_2014KSA_158/KSA/2014 spike protein (S) gene, complete cds
+KM027282	4062	S	Homo sapiens	Saudi Arabia		2014	2014/11/12	Middle East respiratory syndrome coronavirus isolate Riyadh_2014KSA_166/KSA/2014 spike protein (S) gene, complete cds
+KM027283	4062	S	Homo sapiens	Saudi Arabia		2014	2014/11/12	Middle East respiratory syndrome coronavirus isolate Riyadh_2014KSA_167/KSA/2014 spike protein (S) gene, complete cds
+KM027284	4062	S	Homo sapiens	Saudi Arabia		2014	2014/11/12	Middle East respiratory syndrome coronavirus isolate Riyadh_2014KSA_345/KSA/2014 spike protein (S) gene, complete cds
+KM027285	4062	S	Homo sapiens	Saudi Arabia		2014	2014/11/12	Middle East respiratory syndrome coronavirus isolate Riyadh_2014KSA_349/KSA/2014 spike protein (S) gene, complete cds
+KM027286	4062	S	Homo sapiens	Saudi Arabia		2014	2014/11/12	Middle East respiratory syndrome coronavirus isolate Riyadh_2014KSA_351/KSA/2014 spike protein (S) gene, complete cds
+KM027287	4062	S	Homo sapiens	Saudi Arabia		2014	2014/11/12	Middle East respiratory syndrome coronavirus isolate Riyadh_2014KSA_359/KSA/2014 spike protein (S) gene, complete cds
+KM027288	4062	S	Homo sapiens	Saudi Arabia		2014	2014/11/12	Middle East respiratory syndrome coronavirus isolate Riyadh_2014KSA_551/KSA/2014 spike protein (S) gene, complete cds
+KM027289	4062	S	Homo sapiens	Saudi Arabia		2014	2014/11/12	Middle East respiratory syndrome coronavirus isolate Riyadh_2014KSA_564/KSA/2014 spike protein (S) gene, complete cds
+KM027262	29896	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2014/04/22	2014/11/12	Middle East respiratory syndrome coronavirus isolate Riyadh_2014KSA_683/KSA/2014, complete genome
+KM027290	4062	S	Homo sapiens	Saudi Arabia		2014	2014/11/12	Middle East respiratory syndrome coronavirus isolate Riyadh_2014KSA_686/KSA/2014 spike protein (S) gene, complete cds
+KM027291	4062	S	Homo sapiens	Saudi Arabia		2014	2014/11/12	Middle East respiratory syndrome coronavirus isolate Riyadh_2014KSA_693/KSA/2014 spike protein (S) gene, complete cds
+KM027292	4062	S	Homo sapiens	Saudi Arabia		2014	2014/11/12	Middle East respiratory syndrome coronavirus isolate Riyadh_2014KSA_695/KSA/2014 spike protein (S) gene, complete cds
+KF600652	30082	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2012/10/30	2013/09/17	Middle East respiratory syndrome coronavirus isolate Riyadh_2_2012, complete genome
+KT357794	2738	S	Homo sapiens	Saudi Arabia		2014	2016/04/12	Middle East respiratory syndrome coronavirus isolate Riyadh_378/KSA/2014 spike protein gene, partial cds
+KF600613	30064	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2013/02/05	2013/09/17	Middle East respiratory syndrome coronavirus isolate Riyadh_3_2013, complete genome
+KJ156952	30054	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2013/03/01	2014/02/06	Middle East respiratory syndrome coronavirus isolate Riyadh_4_2013, complete genome
+KT357795	697	S	Homo sapiens	Saudi Arabia		2014	2016/04/12	Middle East respiratory syndrome coronavirus isolate Riyadh_578/KSA/2014 spike protein gene, partial cds
+KJ156944	30055	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2013/07/02	2014/02/06	Middle East respiratory syndrome coronavirus isolate Riyadh_5_2013, complete genome
+KT357803	4062	S	Homo sapiens	Saudi Arabia		2014	2016/04/12	Middle East respiratory syndrome coronavirus isolate Riyadh_688/KSA/2014 spike protein gene, complete cds
+KT357797	2505	S	Homo sapiens	Saudi Arabia		2014	2016/04/12	Middle East respiratory syndrome coronavirus isolate Riyadh_692/KSA/2014 spike protein gene, partial cds
+KJ156879	2500	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/07/02	2014/02/06	Middle East respiratory syndrome coronavirus isolate Riyadh_6a_2013 ORF1a gene, partial cds
+KJ156947	8258	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/07/02	2014/02/06	Middle East respiratory syndrome coronavirus isolate Riyadh_6b_2013 ORF1a gene, partial cds
+KJ156890	2251	orf1ab	Homo sapiens	Saudi Arabia		2013/07/02	2014/02/06	Middle East respiratory syndrome coronavirus isolate Riyadh_6c_2013 ORF1ab gene, partial cds
+KJ156908	4861	orf1ab-S	Homo sapiens	Saudi Arabia		2013/07/02	2014/02/06	Middle East respiratory syndrome coronavirus isolate Riyadh_6d_2013 ORF1ab and S protein genes, partial cds
+KJ156937	19266	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/07/15	2014/02/06	Middle East respiratory syndrome coronavirus isolate Riyadh_7a_2013 ORF1ab gene, partial cds; and ORF1a gene, complete cds
+KJ156905	10013	orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2013/07/15	2014/02/06	Middle East respiratory syndrome coronavirus isolate Riyadh_7b_2013 ORF1ab gene, partial cds; S protein, ORF3, ORF4a, ORF4b, ORF5, E protein, and M protein genes, complete cds; N protein gene, partial cds; and ORF8b gene, complete cds
+KJ156880	2117	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/07/17	2014/02/06	Middle East respiratory syndrome coronavirus isolate Riyadh_8a_2013 ORF1a gene, partial cds
+KJ156942	27630	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N	Homo sapiens	Saudi Arabia		2013/07/17	2014/02/06	Middle East respiratory syndrome coronavirus isolate Riyadh_8b_2013, partial genome
+KJ156869	30055	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2013/07/17	2014/02/06	Middle East respiratory syndrome coronavirus isolate Riyadh_9_2013, complete genome
+KJ156949	30055	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2013/06/12	2014/02/06	Middle East respiratory syndrome coronavirus isolate Taif_1_2013, complete genome
+KJ156896	18266	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/06/12	2014/02/06	Middle East respiratory syndrome coronavirus isolate Taif_2a_2013 ORF1ab gene, partial cds; and ORF1a gene, complete cds
+KJ156876	9861	orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2013/06/12	2014/02/06	Middle East respiratory syndrome coronavirus isolate Taif_2b_2013 ORF1ab gene, partial cds; and S protein, ORF3, ORF4a, ORF4b, ORF5, E protein, M protein, N protein, and ORF8b genes, complete cds
+KJ156938	2442	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/06/13	2014/02/06	Middle East respiratory syndrome coronavirus isolate Taif_3a_2013 ORF1a gene, partial cds
+KJ156897	2258	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/06/13	2014/02/06	Middle East respiratory syndrome coronavirus isolate Taif_3b_2013 ORF1a gene, partial cds
+KJ156922	6325	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/06/13	2014/02/06	Middle East respiratory syndrome coronavirus isolate Taif_3c_2013 ORF1ab and ORF1a genes, partial cds
+KJ156868	2146	orf1ab-S	Homo sapiens	Saudi Arabia		2013/06/13	2014/02/06	Middle East respiratory syndrome coronavirus isolate Taif_3d_2013 ORF1ab and S protein genes, partial cds
+KJ156921	1258	S	Homo sapiens	Saudi Arabia		2013/06/13	2014/02/06	Middle East respiratory syndrome coronavirus isolate Taif_3e_2013 S protein gene, partial cds
+KJ156906	2024	M-N-orf8b	Homo sapiens	Saudi Arabia		2013/06/13	2014/02/06	Middle East respiratory syndrome coronavirus isolate Taif_3g_2013 M protein gene, partial cds; and N protein and ORF8b genes, complete cds
+KJ156886	6110	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2013/06/13	2014/02/06	Middle East respiratory syndrome coronavirus isolate Taif_4a_2013 ORF1a gene, partial cds
+KJ156871	2043	M-N-orf8b	Homo sapiens	Saudi Arabia		2013/06/13	2014/02/06	Middle East respiratory syndrome coronavirus isolate Taif_4b_2013 M protein gene, partial cds; and N protein and ORF8b genes, complete cds
+KJ156881	30055	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Homo sapiens	Saudi Arabia		2013/06/12	2014/02/06	Middle East respiratory syndrome coronavirus isolate Wadi-Ad-Dawasir_1_2013, complete genome
+KT368827	30114	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2014/09	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Jeddah/401/2014, complete genome
+KT368828	30119	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2014/12	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Jeddah/D100/2014, complete genome
+KT368829	30118	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2014/12	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Jeddah/D33(b)/2014, complete genome
+KT368830	30119	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2014/12	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Jeddah/D34/2014, complete genome
+KT368831	30118	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2014/12	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Jeddah/D35/2014, complete genome
+KT368832	30118	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2014/12	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Jeddah/D36/2014, complete genome
+KT368833	30118	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2014/12	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Jeddah/D38(b)/2014, complete genome
+KT368834	30113	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2014/12	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Jeddah/D40/2014, complete genome
+KT368835	30119	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2014/12	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Jeddah/D42/2014, complete genome
+KT368836	30119	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2014/12	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Jeddah/D43(b)/2014, complete genome
+KT368837	30117	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2014/12	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Jeddah/D45/2014, complete genome
+KT368838	30118	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2014/12	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Jeddah/D46(b)/2014, complete genome
+KT368839	30117	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2014/12	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Jeddah/D47/2014, complete genome
+KT368840	30116	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2014/12	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Jeddah/D48/2014, complete genome
+KT368841	30110	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2014/12	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Jeddah/D49/2014, complete genome
+KT368842	30116	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2014/12	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Jeddah/D50(b)/2014, complete genome
+KT368843	30118	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2014/12	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Jeddah/D88/2014, complete genome
+KT368844	30109	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2014/12	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Jeddah/D90/2014, complete genome
+KT368845	30116	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2014/12	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Jeddah/D92/2014, complete genome
+KT368824	30115	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2014/05	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Jeddah/F13A/2014, complete genome
+KT368858	30113	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2015/01	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Jeddah/Jd1(b)/2015, complete genome
+KT368866	30114	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2015/02	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Jeddah/Jd175/2015, complete genome
+KT368867	30116	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2015/02	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Jeddah/Jd199/2015, complete genome
+KT368859	30116	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2015/01	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Jeddah/Jd4/2015, complete genome
+KT368860	30122	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2015/01	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Jeddah/Jd6(b)/2015, complete genome
+KT368861	30118	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2015/01	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Jeddah/Jd7/2015, complete genome
+KT368862	30120	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2015/01	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Jeddah/Jd85/2015, complete genome
+KT368863	30120	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2015/01	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Jeddah/Jd86/2015, complete genome
+KT368864	30118	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2015/01	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Jeddah/Jd87/2015, complete genome
+KT368865	30109	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2015/01	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Jeddah/Jd90/2015, complete genome
+KT368846	30115	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2014/11	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Jeddah/N51/2014, complete genome
+KT368847	30110	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2014/11	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Jeddah/N62(b)/2014, complete genome
+KT368848	30118	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2014/11	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Jeddah/N68(b)/2014, complete genome
+KT368849	30117	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2014/10	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Jeddah/O23(b)/2014, complete genome
+KT368850	30118	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2014/10	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Jeddah/O24/2014, complete genome
+KT368851	30119	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2014/10	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Jeddah/O30/2014, complete genome
+KT368852	30117	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2014/10	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Jeddah/O47(b)/2014, complete genome
+KT368853	30108	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2014/09	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Jeddah/S100/2014, complete genome
+KT368854	30118	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2014/09	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Jeddah/S73/2014, complete genome
+KT368855	30115	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2014/09	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Jeddah/S93/2014, complete genome
+KT368856	30117	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2014/09	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Jeddah/S94/2014, complete genome
+KT368857	30119	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2014/09	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Jeddah/S99/2014, complete genome
+KT368868	30122	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2015/03	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Riyadh/Ry136/2015, complete genome
+KT368869	30111	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2015/03	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Riyadh/Ry137/2015, complete genome
+KT368870	30110	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2015/03	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Riyadh/Ry159(b)/2015, complete genome
+KT368871	30118	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2015/03	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Riyadh/Ry162/2015, complete genome
+KT368872	30122	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2015/03	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Riyadh/Ry173/2015, complete genome
+KT368873	30118	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2015/03	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Riyadh/Ry177/2015, complete genome
+KT368874	30122	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2015/03	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Riyadh/Ry178/2015, complete genome
+KT368875	30113	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2015/03	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Riyadh/Ry179/2015, complete genome
+KT368825	30119	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2014/07	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Riyadh/Ry23N/2014, complete genome
+KT368876	30121	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2015/03	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Riyadh/Ry63/2015, complete genome
+KT368877	30118	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2015/03	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Riyadh/Ry64/2015, complete genome
+KT368878	30117	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2015/03	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Riyadh/Ry79/2015, complete genome
+KT368826	30122	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2014/07	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Riyadh/Ry84N/2014, complete genome
+KT368879	30107	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2015/03	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Riyadh/Ry86/2015, complete genome
+KT368889	30110	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2015/03	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Taif/T150/2015, complete genome
+KT368890	30120	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2015/03	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Taif/T157(b)/2015, complete genome
+KT368882	30120	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2015/04	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Taif/T16/2015, complete genome
+KT368883	30122	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2015/04	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Taif/T22/2015, complete genome
+KT368880	30122	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2015/04	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Taif/T3/2015, complete genome
+KT368884	30114	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2015/04	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Taif/T68/2015, complete genome
+KT368881	30113	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2015/04	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Taif/T7/2015, complete genome
+KT368885	30118	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2015/04	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Taif/T89/2015, complete genome
+KT368886	30118	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2015/04	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Taif/T91(b)/2015, complete genome
+KT368887	30116	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2015/04	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Taif/T92/2015, complete genome
+KT368888	30116	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N-orf8b	Camelus	Saudi Arabia		2015/04	2015/12/17	Middle East respiratory syndrome coronavirus isolate camel/Taif/T98/2015, complete genome
+KT624236	3460	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2008/12/15	2016/02/07	Middle East respiratory syndrome coronavirus strain Dammam 1/2014 ORF1ab genes, partial cds
+KT624244	312	orf3	Homo sapiens	Saudi Arabia		2008/12/15	2016/02/07	Middle East respiratory syndrome coronavirus strain Dammam 1/2014 ORF3 gene, complete cds
+KT624248	741	orf4b	Homo sapiens	Saudi Arabia		2008/12/15	2016/02/07	Middle East respiratory syndrome coronavirus strain Dammam 1/2014 ORF4b gene, complete cds
+KT624240	2671	S	Homo sapiens	Saudi Arabia		2008/12/15	2016/02/07	Middle East respiratory syndrome coronavirus strain Dammam 1/2014 spike glycoprotein gene, partial cds
+KT624237	3460	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2008/12/15	2016/02/07	Middle East respiratory syndrome coronavirus strain Dammam 2/2014 ORF1ab genes, partial cds
+KT624245	312	orf3	Homo sapiens	Saudi Arabia		2008/12/15	2016/02/07	Middle East respiratory syndrome coronavirus strain Dammam 2/2014 ORF3 gene, complete cds
+KT624249	741	orf4b	Homo sapiens	Saudi Arabia		2008/12/15	2016/02/07	Middle East respiratory syndrome coronavirus strain Dammam 2/2014 ORF4b gene, complete cds
+KT624241	2671	S	Homo sapiens	Saudi Arabia		2008/12/15	2016/02/07	Middle East respiratory syndrome coronavirus strain Dammam 2/2014 spike glycoprotein gene, partial cds
+KR011266	30096	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/01/06	2015/05/27	Middle East respiratory syndrome coronavirus strain Hu/Riyadh-KSA-2049/2015, complete genome
+KR011264	30096	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/01/21	2015/05/27	Middle East respiratory syndrome coronavirus strain Hu/Riyadh-KSA-2343/2015, complete genome
+KR011263	30096	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/01/21	2015/05/27	Middle East respiratory syndrome coronavirus strain Hu/Riyadh-KSA-2345/2015, complete genome
+KR011265	30096	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N	Homo sapiens	Saudi Arabia	lung,oronasopharynx	2015/01/26	2015/05/27	Middle East respiratory syndrome coronavirus strain Hu/Riyadh-KSA-2466/2015, complete genome
+KT026453	30114	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N	Homo sapiens	Saudi Arabia	lung	2015/02/10	2015/06/08	Middle East respiratory syndrome coronavirus strain Hu/Riyadh_KSA_2959_2015, complete genome
+KT026454	30123	orf1a-orf1ab-S-orf3-orf4a-orf4b-orf5-E-M-N	Homo sapiens	Saudi Arabia	oronasopharynx	2015/03/01	2015/06/08	Middle East respiratory syndrome coronavirus strain Hu/Riyadh_KSA_4050_2015, complete genome
+KJ396757	1044	S	Camelus dromedarius	Saudi Arabia	oronasopharynx	2013/11	2014/03/12	Middle East respiratory syndrome coronavirus strain KSA_349 spike protein gene, partial cds
+KJ396762	1044	S	Camelus dromedarius	Saudi Arabia	oronasopharynx	2013/11	2014/03/12	Middle East respiratory syndrome coronavirus strain KSA_356 spike protein gene, partial cds
+KJ396771	2009	orf1ab-S	Camelus dromedarius	Saudi Arabia	oronasopharynx	2013/11	2014/03/12	Middle East respiratory syndrome coronavirus strain KSA_363 ORF1ab and S protein genes, partial cds
+KJ396756	1044	S	Camelus dromedarius	Saudi Arabia	oronasopharynx	2013/11	2014/03/12	Middle East respiratory syndrome coronavirus strain KSA_363 spike protein gene, partial cds
+KJ396769	2009	orf1ab-S	Camelus dromedarius	Saudi Arabia	oronasopharynx	2013/11	2014/03/12	Middle East respiratory syndrome coronavirus strain KSA_364 ORF1ab and S protein genes, partial cds
+KJ396763	1044	S	Camelus dromedarius	Saudi Arabia	oronasopharynx	2013/11	2014/03/12	Middle East respiratory syndrome coronavirus strain KSA_364 spike protein gene, partial cds
+KJ396758	1044	S	Camelus dromedarius	Saudi Arabia	oronasopharynx	2013/11	2014/03/12	Middle East respiratory syndrome coronavirus strain KSA_370 spike protein gene, partial cds
+KJ396761	1044	S	Camelus dromedarius	Saudi Arabia	stool	2013/11	2014/03/12	Middle East respiratory syndrome coronavirus strain KSA_371 spike protein gene, partial cds
+KJ396770	2009	orf1ab-S	Camelus dromedarius	Saudi Arabia	oronasopharynx	2013/11	2014/03/12	Middle East respiratory syndrome coronavirus strain KSA_376 ORF1ab and S protein genes, partial cds
+KJ396759	1044	S	Camelus dromedarius	Saudi Arabia	oronasopharynx	2013/11	2014/03/12	Middle East respiratory syndrome coronavirus strain KSA_376 spike protein gene, partial cds
+KJ396766	2009	orf1ab-S	Camelus dromedarius	Saudi Arabia	oronasopharynx	2013/11	2014/03/12	Middle East respiratory syndrome coronavirus strain KSA_378 ORF1ab and S protein genes, partial cds
+KJ396760	1044	S	Camelus dromedarius	Saudi Arabia	oronasopharynx	2013/11	2014/03/12	Middle East respiratory syndrome coronavirus strain KSA_378 spike protein gene, partial cds
+KJ396768	2009	orf1ab-S	Camelus dromedarius	Saudi Arabia	oronasopharynx	2013/11	2014/03/12	Middle East respiratory syndrome coronavirus strain KSA_459 ORF1ab and S protein genes, partial cds
+KJ396764	1044	S	Camelus dromedarius	Saudi Arabia	oronasopharynx	2013/11	2014/03/12	Middle East respiratory syndrome coronavirus strain KSA_459 spike protein gene, partial cds
+KJ396767	2009	orf1ab-S	Camelus dromedarius	Saudi Arabia	oronasopharynx	2013/11	2014/03/12	Middle East respiratory syndrome coronavirus strain KSA_464 ORF1ab and S protein genes, partial cds
+KJ396765	1044	S	Camelus dromedarius	Saudi Arabia	oronasopharynx	2013/11	2014/03/12	Middle East respiratory syndrome coronavirus strain KSA_464 spike protein gene, partial cds
+KT624238	3460	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2008/12/15	2016/02/07	Middle East respiratory syndrome coronavirus strain Madinah 4/2014 ORF1ab genes, partial cds
+KT624246	312	orf3	Homo sapiens	Saudi Arabia		2008/12/15	2016/02/07	Middle East respiratory syndrome coronavirus strain Madinah 4/2014 ORF3 gene, complete cds
+KT624250	741	orf4b	Homo sapiens	Saudi Arabia		2008/12/15	2016/02/07	Middle East respiratory syndrome coronavirus strain Madinah 4/2014 ORF4b gene, complete cds
+KT624242	2671	S	Homo sapiens	Saudi Arabia		2008/12/15	2016/02/07	Middle East respiratory syndrome coronavirus strain Madinah 4/2014 spike glycoprotein gene, partial cds
+KT624239	3460	orf1a-orf1ab	Homo sapiens	Saudi Arabia		2008/12/15	2016/02/07	Middle East respiratory syndrome coronavirus strain Riyadh 11/2014 ORF1ab genes, partial cds
+KT624247	312	orf3	Homo sapiens	Saudi Arabia		2008/12/15	2016/02/07	Middle East respiratory syndrome coronavirus strain Riyadh 11/2014 ORF3 gene, complete cds
+KT624251	741	orf4b	Homo sapiens	Saudi Arabia		2008/12/15	2016/02/07	Middle East respiratory syndrome coronavirus strain Riyadh 11/2014 ORF4b gene, complete cds
+KT624243	2671	S	Homo sapiens	Saudi Arabia		2008/12/15	2016/02/07	Middle East respiratory syndrome coronavirus strain Riyadh 11/2014 spike glycoprotein gene, partial cds
+KY689142	29837		Homo sapiens	Saudi Arabia		2016/01	2017/04/02	UNVERIFIED: Middle East respiratory syndrome-related coronavirus strain MERS-Cov/Riyadh-KSA/NGHA_ KAMC_2016 genomic sequence
